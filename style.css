@@ -1,0 +1,35 @@
+h2{
+    background-color: rgb(185, 91, 178);
+    width: 35%;
+}
+
+h1{
+    background-color: rgb(86, 168, 216);
+    text-align: center;
+}
+
+.con-can1,.con-can2,.con-can3,.con-can4{
+    background-color: rgb(136, 148, 155);
+    margin: auto;
+    width: 14%;
+    border: 3px solid green;
+    padding: 10px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.img-1{
+    margin: auto;
+    width: 18%;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+.img-2{
+    margin: auto;
+    width: 18%;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
